@@ -1,0 +1,210 @@
+Mot_clé,Mot_clé_en_francais,Catégorie_thématique
+LocalBusiness,Service de proximité,Commerce
+ArtGalleryOrExhibitionGallery,"Galerie d'art, galerie d'exposition",Culture et social
+CircusEvent,Spectacle de cirque,Culture et social
+CircusPlace,Cirque,Culture et social
+Commemoration,Commémoration,Culture et social
+Concert,Concert,Culture et social
+Conference,Conférence,Culture et social
+CraftsmanShop,Artisan d'art,Culture et social
+CulturalActivityProvider,Prestataire d'activité culturelle,Culture et social
+CulturalEvent,Évènement culturel,Culture et social
+CulturalSite,Site culturel,Culture et social
+DanceEvent,Spectacle de danse,Culture et social
+EntertainmentAndEvent,Fête et manifestation,Culture et social
+Exhibition,Exposition,Culture et social
+Festival,Festival,Culture et social
+Game,"Jeu, concours",Culture et social
+Harvest,"Vendange, récolte",Culture et social
+Opera,Opéra,Culture et social
+Parade,Défilé Cortège Parade,Culture et social
+Theater,"Théatre, Salle de spectacle",Culture et social
+BistroOrWineBar,Gastronomie,Gastronomie
+Brewery,Gastronomie,Gastronomie
+Cellar,Gastronomie,Gastronomie
+Cooperative,Gastronomie,Gastronomie
+FarmhouseInn,Gastronomie,Gastronomie
+GourmetRestaurant,Gastronomie,Gastronomie
+LocalProductsShop,Gastronomie,Gastronomie
+Market,Gastronomie,Gastronomie
+Producer,Gastronomie,Gastronomie
+ProducersGroup,Gastronomie,Gastronomie
+TableHotes,Gastronomie,Gastronomie
+Tasting,Gastronomie,Gastronomie
+TastingProvider,Gastronomie,Gastronomie
+WineCellar,Gastronomie,Gastronomie
+CyclingTour,Itinéraire cyclable,Itinéraire touristique
+FluvialTour,Itinéraire fluvial ou maritime,Itinéraire touristique
+HorseTour,Itinéraire équestre,Itinéraire touristique
+RoadTour,Itinéraire routier,Itinéraire touristique
+Tour,Itinéraire touristique,Itinéraire touristique
+UnderwaterRoute,Itinéraire sous-marin,Itinéraire touristique
+WalkingTour,Itinéraire pédestre,Itinéraire touristique
+BalneotherapyCentre,Centre de balnéothérapie,Loisir
+BowlingAlley,Bowling,Loisir
+Casino,Casino,Loisir
+Cinema,Cinéma,Loisir
+EducationalTrail,Sentier de découverte et d'interprétation,Loisir
+FirstPractice,Baptême sportif,Loisir
+Hammam,Hammam,Loisir
+KidsClub,Club enfants,Loisir
+Marina,Port de plaisance,Loisir
+MiniGolf,Mini golf,Loisir
+MountainResort,Station de montagne,Loisir
+NauticalCentre,Base nautique / centre nautique,Loisir
+PlayArea,Aire de jeux,Loisir
+SightseeingBoat,Bateau promenade,Loisir
+Spa,Etablissement thermal,Loisir
+SpaResort,Station thermale,Loisir
+SwimmingPool,Piscine,Loisir
+TeachingFarm,Ferme pédagogique,Loisir
+ThalassotherapyCentre,Centre de thalassothérapie,Loisir
+ThemePark,"Parc de loisirs, parc à thème",Loisir
+TourismCableCar,Téléphérique touristique,Loisir
+TouristBus,Bus touristique,Loisir
+TouristTrain,Train touristique,Loisir
+Velodrome,Vélodrome,Loisir
+ViaFerrata,Via ferrata,Loisir
+VivariumAquarium,Vivarium - Aquarium,Loisir
+ZooAnimalPark,Zoo - parc animalier,Loisir
+Abbey,Abbaye,Patrimoine
+AntiqueAndSecondhandGoodDealer,Antiquaire et brocanteur,Patrimoine
+Aqueduct,Aqueduc,Patrimoine
+ArcheologicalSite,Site archéologique,Patrimoine
+Arena,Arène,Patrimoine
+Basilica,Basilique,Patrimoine
+Bastide,Bastide,Patrimoine
+Bridge,Pont,Patrimoine
+BuddhistTemple,Temple bouddhique,Patrimoine
+Calvary,Calvaire et enclos paroissiaux,Patrimoine
+Castle,Château,Patrimoine
+Cathedral,Cathédrale,Patrimoine
+Chapel,Chapelle,Patrimoine
+Chartreuse,Chartreuse,Patrimoine
+Church,Eglise,Patrimoine
+Citadel,Citadelle,Patrimoine
+CityHeritage,Ville et village,Patrimoine
+CivilCemetery,Cimetière civil,Patrimoine
+Cloister,Cloître,Patrimoine
+Collegiate,Collégiale,Patrimoine
+Commanderie,Commanderie,Patrimoine
+Convent,Couvent,Patrimoine
+CoveredMarket,"Halle, marché couvert",Patrimoine
+DefenceSite,Site de défense,Patrimoine
+District,Quartier,Patrimoine
+Dungeon,Donjon,Patrimoine
+Farm,Ferme,Patrimoine
+Forge,Forge,Patrimoine
+Fort,Fort,Patrimoine
+FortifiedCastle,Château fort,Patrimoine
+FortifiedSet,Ensemble fortifié,Patrimoine
+Fountain,Fontaine,Patrimoine
+IndustrialSite,Site industriel,Patrimoine
+LevyOrDike,"Barrage, digue",Patrimoine
+Lighthouse,Phare,Patrimoine
+Lock,Ecluse,Patrimoine
+MegalithDolmenMenhir,"Mégalithes, menhirs et dolmens",Patrimoine
+MilitaryCemetery,Cimetière militaire et mémorial,Patrimoine
+Mill,Moulin,Patrimoine
+Mine,Mine,Patrimoine
+Monastery,"Monastère, prieuré",Patrimoine
+Mosque,Mosquée,Patrimoine
+Museum,Musée,Patrimoine
+NaturalHeritageFeatureSpecification,Spécification d'équipement de patrimoine naturel,Patrimoine
+Orchard,Verger conservatoire,Patrimoine
+Palace,Palais,Patrimoine
+ParkAndGarden,Parc et jardin,Patrimoine
+Pier,Jetée,Patrimoine
+PigeonLoft,Pigeonnier,Patrimoine
+ReligiousSite,Site religieux,Patrimoine
+RemarkableBuilding,Bâtiment civil remarquable,Patrimoine
+RemarkableHouse,Maison remarquable,Patrimoine
+RemembranceSite,Lieu de mémoire,Patrimoine
+RomanPath,Voie romaine,Patrimoine
+Ruins,Ruines et vestiges,Patrimoine
+Stables,Haras,Patrimoine
+Synagogue,Synagogue,Patrimoine
+TechnicalHeritage,"Patrimoine industriel, artisanal, rural, agricole et technique",Patrimoine
+Temple,Temple,Patrimoine
+Tower,Tour,Patrimoine
+TriumphalArch,Arc de triomphe,Patrimoine
+WashHouse,Lavoir,Patrimoine
+BarOrPub,Restauration,Restauration/Bar a theme
+FoodEstablishment,Restauration,Restauration/Bar a theme
+FoodEstablishmentTheme,Restauration,Restauration/Bar a theme
+FoodProduct,Restauration,Restauration/Bar a theme
+HotelRestaurant,Restauration,Restauration/Bar a theme
+MountainRestaurant,Restauration,Restauration/Bar a theme
+Restaurant,Restauration,Restauration/Bar a theme
+Bakery,Restauration rapide,Restauration/Bar a theme
+CafeOrTeahouse,Restauration rapide,Restauration/Bar a theme
+FastFoodRestaurant,Restauration rapide,Restauration/Bar a theme
+IceCreamShop,Restauration rapide,Restauration/Bar a theme
+SelfServiceCafeteria,Restauration rapide,Restauration/Bar a theme
+StreetFood,Restauration rapide,Restauration/Bar a theme
+Beach,Plage,Site naturel
+Canal,Canal,Site naturel
+Canyon,Canyon,Site naturel
+Causse,Causse,Site naturel
+CaveSinkholeOrAven,"Grotte, gouffre, aven, caverne, carrière",Site naturel
+Cirque,Cirque naturel,Site naturel
+Cliff,Falaise,Site naturel
+Coastline,"Côte, littoral",Site naturel
+Col,Col,Site naturel
+ConeNeck,Cône,Site naturel
+Crest,Crête,Site naturel
+Cuesta,Cuesta,Site naturel
+Culture,Culture,Site naturel
+Dune,Dune,Site naturel
+Forest,Forêt,Site naturel
+Gorge,Gorge,Site naturel
+Grassland,Prairie,Site naturel
+HalophilicArea,Zone halophile,Site naturel
+Hillsides,Côteau,Site naturel
+Icefall,Cascade de glace,Site naturel
+IslandPeninsula,Ile - presqu'île,Site naturel
+Lake,Lac,Site naturel
+Landes,Landes,Site naturel
+Mountain,Montagne,Site naturel
+NaturalCuriosity,Curiosité naturelle,Site naturel
+NaturalHeritage,Site naturel,Site naturel
+NaturalPark,Parc naturel,Site naturel
+Peak,Pic,Site naturel
+Plain,Plaine,Site naturel
+Plateau,Plateau,Site naturel
+Pond,Etang,Site naturel
+River,Rivière ou fleuve,Site naturel
+RiverPort,Rivière portuaire,Site naturel
+Source,Source,Site naturel
+Stone,"Pierre, rocher",Site naturel
+Stream,Ruisseau,Site naturel
+StubbleFields,Chaumes,Site naturel
+Summit,Sommet,Site naturel
+Swamp,Marais,Site naturel
+Valley,Vallée,Site naturel
+Volcano,Volcan,Site naturel
+Waterfall,Cascade,Site naturel
+Wetland,Zone humide,Site naturel
+ClimbingWall,Site et mur d'escalade,Sport
+CrossCountrySkiResort,Domaine de ski nordique,Sport
+CrossCountrySkiTrail,Piste de ski de fond,Sport
+DogSleddingTrail,Piste de chien de traineau,Sport
+DownhillSkiResort,Domaine de ski alpin,Sport
+DownhillSkiRun,Piste de ski alpin,Sport
+EquestrianCenter,Centre équestre,Sport
+FitnessPath,Parcours de Santé,Sport
+GolfCourse,Terrain de golf,Sport
+IceSkatingRink,Patinoire,Sport
+LeisureSportActivityProvider,Prestataire d'activité sportive et de loisir,Sport
+MultiActivity,Multiactivités,Sport
+RacingCircuit,Circuit automobile ou moto,Sport
+SportsAndLeisurePlace,"Site sportif, récréatif et de loisirs",Sport
+SportsCompetition,Compétition sportive,Sport
+SportsDemonstration,Démonstration sportive,Sport
+SquashCourt,Terrain de squash,Sport
+Stadium,Stade,Sport
+SummerToboggan,Piste de luge d'été,Sport
+TennisComplex,Complèxe ou terrain de tennis,Sport
+TobogganBobsleigh,Piste de luge / bobsleigh,Sport
+TrackRollerOrSkateBoard,Piste de roller ou de skate board,Sport
+Trampoline,Tremplin,Sport

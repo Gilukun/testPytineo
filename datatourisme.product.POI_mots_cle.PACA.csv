@@ -1,0 +1,25 @@
+Mot_clé,Mot_clé_en_francais,Catégorie_thématique
+ArtGalleryOrExhibitionGallery,Galerie d'art - galerie d'exposition,Culture et social
+CraftsmanShop,Artisan d'art,Culture et social
+CulturalSite,Site culturel,Culture et social
+CulturalEvent,Évènement culturel,Culture et social
+Concert,Concert,Culture et social
+Conference,Conférence,Culture et social
+ShowEvent,Spectacle,Culture et social
+TheaterEvent,Pièce de théâtre,Culture et social
+SaleEvent,Evènement commercial,Culture et social
+SocialEvent,Evènement social,Culture et social
+SportsEvent,Évènement sports et loisirs,Evènement sportif
+BistroOrWineBar,Gastronomie,Gastronomie
+Market,Gastronomie,Gastronomie
+Tasting,Gastronomie,Gastronomie
+TastingProvider,Gastronomie,Gastronomie
+Casino,Casino,Loisir
+LaunchingRamp,Rampe de mise à l'eau,Loisir
+Visit,Visite,Patrimoine
+BarOrPub,Restauration,Restauration/Bar a theme
+FoodEstablishment,Restauration,Restauration/Bar a theme
+IceCreamShop,Restauration rapide,Restauration/Bar a theme
+MultiActivity,Multiactivités,Sport
+SportsAndLeisurePlace,Site sportif - récréatif et de loisirs,Sport
+SportsCompetition,Compétition sportive,Sport

@@ -1,0 +1,17 @@
+Mot_clé,Mot_clé_en_francais,Catégorie_thématique
+WalkingTour,Itinéraire pédestre,Itinéraire touristique
+CyclingTour,Itinéraire cyclable,Itinéraire touristique
+HorseTour,Itinéraire équestre,Itinéraire touristique
+FluvialTour,Itinéraire fluvial ou maritime,Itinéraire touristique
+UnderwaterRoute,Itinéraire sous-marin,Itinéraire touristique
+RoadTour,Itinéraire routier,Itinéraire touristique
+ThemePark,"Parc de loisirs, parc à thème",Loisir
+EducationalTrail,Sentier de découverte et d'interprétation,Loisir
+ZooAnimalPark,Zoo - parc animalier,Loisir
+EquestrianCenter,Centre équestre,Loisir
+Beach,Plage,Site naturel
+NaturalHeritage,Site naturel,Site naturel
+RacingCircuit,Circuit automobile ou moto,Sport
+FitnessPath,Parcours de Santé,Sport
+TobogganBobsleigh,Piste de luge / bobsleigh,Sport
+CrossCountrySkiTrail,Piste de ski de fond,Sport
